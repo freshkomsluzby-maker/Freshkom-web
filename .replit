@@ -29,3 +29,6 @@ timeoutMs = 20000
 
 [userenv.shared]
 GMAIL_USER = "freshkomsluzby@gmail.com"
+
+[nix]
+channel = "stable-25_05"
